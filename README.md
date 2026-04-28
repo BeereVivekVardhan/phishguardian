@@ -1,1 +1,1 @@
-# Manipal IBM HAckathon files
+# Manipal IBM Hackathon files
